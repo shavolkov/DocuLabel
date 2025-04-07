@@ -47,3 +47,4 @@ The classification model in **DocuLabel** is implemented in `model.py` and utili
 3. **Visualizing Results**:
    - Generate Grad-CAM heatmaps using `visualize.py`.
    - Run `visualize.py` on a saved model. Ensure model is in folder called visualize_model
+   - The following link is to the final model for the sake of testing: [Final model](https://drive.google.com/drive/folders/170_fdK1Nz79sQNVQ1f4YvUUVzTfK0d5i?usp=sharing)
